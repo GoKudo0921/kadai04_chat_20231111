@@ -1,0 +1,68 @@
+/* ログインボタン */
+#login-btn {
+  text-align: center;
+}
+
+#login:hover {
+  background-color: black;
+  color: white;
+}
+
+/* ボディ全体 */
+body {
+  background-color: #eafafe;
+}
+
+/* トップの画像とタイトル */
+#top-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+/* トップ画像 */
+img {
+  width: 20%;
+}
+
+/* タイトル */
+h1 {
+  flex-grow: 1; /* タイトルが余白を埋めるように伸びる */
+  text-align: center;
+  font-weight: bold;
+  font-size: 100px;
+}
+
+/* コンテンツ全体 */
+#wrap-content {
+  text-align: center;
+}
+
+/* 各項目 */
+.box {
+  padding: 10px;
+}
+
+/* 結果欄 */
+#wrap-output {
+  text-align: center;
+}
+
+/* アウトプットデータ */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: center;
+  border: 1px solid #ddd; /* 罫線のスタイル */
+}
+
+th {
+  background-color: #f2f2f2; /* ヘッダーの背景色 */
+}
