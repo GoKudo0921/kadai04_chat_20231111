@@ -22,3 +22,8 @@
 - データの登録はできるようになったので、上書きや削除をできるようにしたい
 - テーブルタグで表示しているにデータをフィルタリングできるようにしたい
 - Firebaseのデプロイをしたい
+
+## 参考にしたサイト
+- https://www.youtube.com/watch?v=D47A-t_Ng5s&t=29s
+- 学長が出しているYoutubeのFirebaseでAuthenticationを設定する方法
+
